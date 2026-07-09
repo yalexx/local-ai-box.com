@@ -1,3 +1,2 @@
 User-agent: *
-Allow: /
-Sitemap: https://local-ai-box.com/sitemap.xml
+Disallow: /
